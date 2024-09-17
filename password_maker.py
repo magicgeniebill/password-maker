@@ -11,7 +11,7 @@ def secret_password_maker():
                  "What City do Ann's Parents Live In?",
                  "What City are Ann and Jeanie based in?",
                  "What Place do Ann and Jeanie Visit Every Saturday?",
-                 "What is Ann's Official Email Account?", # u can't find our emails from github right...  
+                 "What is Ann's Official Email Account?", 
                  "What is Ann's Throwaway Email Account?",
                  "What Food is Ann Allergic to?"
                  ]
